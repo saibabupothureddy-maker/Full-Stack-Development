@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+<h2>Student Details</h2>
+<table border="1">
+    <tr>
+        <td colspan="3">Student Information</td>
+    </tr>
+    <tr>
+        <td rowspan="2">1</td>
+        <td>Name</td>
+        <td>Ravi</td>
+    </tr
+    <tr>
+        <td>Branch</td>
+        <td>CSE</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Name</td>
+        <td>Rahul</td>
+    </tr>
+</table>
+</body>
+</html>
